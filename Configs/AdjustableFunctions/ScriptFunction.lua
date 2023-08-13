@@ -31,7 +31,7 @@ Mek91_HR.RemoveTarget = function(Place)
 end
 ---------------------------------------------------------------------------------------------------------------------------
 Mek91_HR.LockPickUsing = function(Core, CB)
-    local SelectSkillBar = "tgiann-skillbar" -- | "tgiann-skillbar" or "qb-skillbar" |
+    local SelectSkillBar = "qb-skillbar" -- | "tgiann-skillbar" or "qb-skillbar" |
     
     local Sucess = 1
     local Remaining = 3
