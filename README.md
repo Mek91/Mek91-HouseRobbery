@@ -31,7 +31,7 @@
 It is superior to all scripts on the market and the main reason why it is superior is that it is superior (resmon value: 0.0) and you can add as many peelable areas as you wish and you can set which item and how much chance range you want the peelable areas to give the number of items.
 
 👇EXAMPLE👇
-
+```
 Mek91_HR.Fields = {
     ["ExampleHouseRobbery"] = { -- You can give any name you wish. ||| EXAMPLE |||
         HouseName = "ExampleHouse1", -- It is mandatory to enter the house name here!
@@ -603,5 +603,5 @@ Mek91_HR.Fields = {
         },
     },
 }
-
+```
 ["Places"] you can add as much as you want to the content of the field. and you can remove what you want. and you can add as many houses as you want, like the 2 house examples here...
