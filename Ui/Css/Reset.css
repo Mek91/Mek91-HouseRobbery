@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&display=swap');
+ /* BU "RESET CSS" MEK91 TARAFINDAN HAZIRLANDI */
+* {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    user-select: none;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/* a:active {
+
+}
+
+a:visited {
+
+} */
+
+button {
+    border: none;
+}
+
+a:hover { 
+    text-decoration: none;
+}
+
+a, button {
+    cursor: pointer;
+}
+
+img, video {
+    display: block;
+    max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+/* select, input[type="checkbox"], input[type="radio"] {
+    appearance: none;
+} */
+
+input, textarea {
+    -webkit-user-select: auto;
+    user-select: auto;
+}
+
+/* revert the 'white-space' property for textarea elements on Safari */
+textarea {
+    white-space: revert;
+}
+
+/* minimum style to allow to style meter element */
+meter {
+    -webkit-appearance: revert;
+    appearance: revert;
+}
+
+/* reset default text opacity of input placeholder */
+::placeholder {
+    color: unset;
+}
+
+ol, ul, menu {
+    list-style: none;
+}

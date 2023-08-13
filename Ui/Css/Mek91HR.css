@@ -1,0 +1,128 @@
+@import url("Reset.css");
+
+body {
+    overflow: hidden;
+}
+
+/* PLAYER SPEED */
+#PlayerSpeed {
+    width: 100%;
+    height: 100vh;
+    display: none;
+    align-items: start;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+/* PlayerSpeedIn */
+#PlayerSpeedIn {
+    width: auto;
+    height: auto;
+    background: rgb(15, 15, 15);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.PlayerSpeedInActive {
+    margin-top: 30px;
+}
+
+.PlayerSpeedInDeActive {
+    margin-top: -130px;
+}
+
+/* PlayerSpeedBox */
+#PlayerSpeedIn #PlayerSpeedBox {
+    padding: 10px;
+    display: flex;
+}
+
+/* Text */
+#PlayerSpeedIn #Text {
+    color: rgb(255, 255, 255);
+}
+
+/* SoundLevel */
+#PlayerSpeedIn #SoundLevel {
+    color: rgb(255, 255, 255);
+    padding: 0px 0px 0px 5px;
+    transition: 0.5s;
+    /* filter: drop-shadow(0px 0px 10px rgb(255, 166, 0)); */
+}
+
+/* ----------------------- */
+
+/* SelectedYesOrNo */
+#SelectedYesOrNo {
+    width: 100%;
+    height: 100vh;
+    /* background: rgba(15, 15, 15, 0.8); */
+    display: none;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+#SelectedYesOrNoIn {
+    background: rgb(15, 15, 15);
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: rgba(15, 15, 15, 0.56) 0px 22px 70px 4px;
+}
+
+/* SURROUNDED */
+#SelectedYesOrNoIn #Surrounded {
+    padding: 20px 20px 0px 20px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+/* BUTTONS */
+#SelectedYesOrNoIn #Buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* YES */
+#SelectedYesOrNoIn #Yes {
+    background: rgb(8, 7, 7);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+
+#SelectedYesOrNoIn #Yes:hover {
+    background: rgb(28, 200, 138);
+    box-shadow: rgba(28, 200, 138, 0.56) 0px 22px 70px 4px;
+    color: rgb(0, 0, 0);
+    transform: scale(1.08);
+}
+
+/* OR */
+#SelectedYesOrNoIn #Or {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+/* NO */
+#SelectedYesOrNoIn #No {
+    background: rgb(8, 7, 7);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 20px;
+    transition: 0.4s;
+}
+
+#SelectedYesOrNoIn #No:hover {
+    background: rgb(231, 74, 59);
+    box-shadow: rgba(231, 74, 59, 0.56) 0px 22px 70px 4px;
+    transform: scale(1.08);
+}
