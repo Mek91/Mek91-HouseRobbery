@@ -31,6 +31,9 @@
 It is superior to all scripts on the market and the main reason why it is superior is that it is superior (resmon value: 0.0) and you can add as many peelable areas as you wish and you can set which item and how much chance range you want the peelable areas to give the number of items.
 
 👇EXAMPLE👇
+
+Command: /+Mek91HR ExampleHouse1 | ["SpawnInsideTheHouse"] To check the status, you can check this way by entering the house name after the script is restarted and check if the size of the radius is enough for the corners of the house.
+
 ```
 Mek91_HR.Fields = {
     ["ExampleHouseRobbery"] = { -- You can give any name you wish. ||| EXAMPLE |||
