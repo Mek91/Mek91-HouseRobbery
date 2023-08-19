@@ -187,6 +187,9 @@ RegisterNetEvent("Mek91-HR:Client:ProgressBar", function(HouseName, TargetName)
             ClearPedTasks(playerPed)
             FreezeEntityPosition(playerPed, false)
             TriggerServerEvent("Mek91-HR:Server:GiveItem", HouseName, TargetName)
+        else
+            ClearPedTasks(playerPed)
+            FreezeEntityPosition(playerPed, false)
         end
     end)
 end)
