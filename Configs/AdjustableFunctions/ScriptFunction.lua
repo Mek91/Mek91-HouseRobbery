@@ -77,6 +77,8 @@ Mek91_HR.ProgressBarUsing = function(Core, Duration, CB)
         disableCombat = false,
     }, {}, {}, {}, function()
         CB(true)
+    end, function()
+        CB(false)
     end)
 end
 ---------------------------------------------------------------------------------------------------------------------------
