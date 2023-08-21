@@ -345,7 +345,7 @@ Mek91_HR.Fields = {
                     },
                 },
 
-                AfterCoord = vector4(-500.54, 552.26, 120.59, 343.77) -- vector3() and Player Head = vector4(x, y, z, Heading) "Exit Gate"
+                AfterCoord = vector4(-499.58, 556.31, 119.99, 249.99) -- old vector4(-500.54, 552.26, 120.59, 343.77) -- vector3() and Player Head = vector4(x, y, z, Heading) "Exit Gate"
             },
 
             ["BackDoorOut"] = { -- Don't touch!
