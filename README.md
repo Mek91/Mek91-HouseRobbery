@@ -1,30 +1,30 @@
 # Mek91-HouseRobbery
 👇 VIDEO 👇
 
-[![Watch Script Usage Video](https://cdn.discordapp.com/attachments/1085584380723994684/1140297075301568542/M91HR.png)](https://youtu.be/5k2A2PTvZe8 "Watch Script Usage Video")
+[![Watch Script Usage Video](https://i.imgur.com/SqwLRwZ.png)](https://youtu.be/5k2A2PTvZe8 "Watch Script Usage Video")
 
 
 👇WEBHOOKS IMAGE👇
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295959658627249/COMBATLOG.png)
+![Combat Log](https://i.imgur.com/099q2dZ.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295959931260968/CURRENTLYBEINGROBBED.png)
+![Currently Being Robbed](https://i.imgur.com/uhALXkZ.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295960216485898/DEAD.png)
+![Dead](https://i.imgur.com/6qRYgOq.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295960526848010/FOUNDITEM.png)
+![Found Item](https://i.imgur.com/oxiOIuQ.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295960753344593/BACKDOOR.png)
+![Backdoor](https://i.imgur.com/WHaKQoW.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295960996626472/CAPTURED.png)
+![Captured](https://i.imgur.com/OgetuYS.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295989509500968/LOGINDOOR.png)
+![Login Door](https://i.imgur.com/XEb8AqT.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295989735981107/OUTDOOR.png)
+![Out Door](https://i.imgur.com/hgiHOI8.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295990126067813/POLICECONTROLDOOR.png)
+![Police Control Door](https://i.imgur.com/VB2BveN.png)
 
-![alt text](https://cdn.discordapp.com/attachments/1085584380723994684/1140295990381916333/TRYINGTOROBBERY.png)
+![Trying To Robbery](https://i.imgur.com/myzWlvp.png)
 
 👇PURPOSE OF SCRIPT👇
 
