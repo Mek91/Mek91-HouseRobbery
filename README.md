@@ -34,7 +34,7 @@ It is superior to all scripts on the market and the main reason why it is superi
 
 Command: /+Mek91HR ExampleHouse1 | ["SpawnInsideTheHouse"] To check the status, you can check this way by entering the house name after the script is restarted and check if the size of the radius is enough for the corners of the house. you can check the changes at f8
 
-```
+```lua
 Mek91_HR.Fields = {
     ["ExampleHouseRobbery"] = { -- You can give any name you wish. ||| EXAMPLE |||
         HouseName = "ExampleHouse1", -- It is mandatory to enter the house name here!
